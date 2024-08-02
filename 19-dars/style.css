@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background {
+    background-color: rgb(116, 198, 157);
+}
+.navbar {
+    max-width: 1440px;
+    margin: auto;
+    background-color: rgb(116, 198, 157);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 0 38px 0;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li {
+    padding-right: 30px;
+
+}
+.container{
+    text-align: center;
+    margin-top: 35px;
+}
+.pl{
+    color: rgb(116, 198, 157);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 125%;
+    letter-spacing: 5px;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding-bottom: 16px;
+}
+.os{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 125%;
+    font-family: "Crimson Text", serif;
+    font-style: normal;
+    padding-bottom: 16px;
+}
+.lorem{
+    width: 411px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.container2{
+    max-width: 1227px;
+    margin: auto;
+    display: flex;
+    gap: 105px;
+    margin-top: 78px;
+}
+.card1{
+    max-width: 339px;
+    display: flex;
+    justify-content: start;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 4px 12px 1px rgba(0, 0, 0, 0.25);
+    padding: 46px 30px;
+}
+.card2{
+    max-width: 339px;
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+    border-radius: 5px;
+    box-shadow: 3px 4px 12px 1px rgba(0, 0, 0, 0.25);
+    padding: 46px 30px;
+}
+.card3{
+    max-width: 339px;
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 4px 12px 1px rgba(0, 0, 0, 0.25);
+    padding: 46px 30px;
+}
+.oy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lorem2{
+    max-width: 279px;
+    color: rgba(33, 37, 41, 0.5);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.check{
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.check div{
+    display: flex;
+    gap: 11px;
+    padding-bottom: 11px;
+}
+.Basic{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.oy h1{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.oy h4{
+    color: rgba(33, 37, 41, 0.5);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.check h3{
+    color: rgb(33, 37, 41);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.lm{
+    border-radius: 5px; 
+    background-color: rgb(33, 37, 41);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 10px 30px;
+    border: 0px;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(116, 198, 157);
+    margin-top: 135px;
+    padding: 59px 131px 48px 131px;
+}
+.icons img{
+    padding-right: 15px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 125%;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
